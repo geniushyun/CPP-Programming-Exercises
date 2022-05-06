@@ -1,0 +1,14 @@
+﻿  RankingBoard.cpp
+C:\Users\samsung\source\repos\Project1\Project1\RankingBoard.cpp(5,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+x64\Debug\Ranking.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+RankingBoard.obj : error LNK2005: main이(가) 4x4Main.obj에 이미 정의되어 있습니다.
+4x4Main.obj : error LNK2019: "void __cdecl loadRanking(char const *)" (?loadRanking@@YAXPEBD@Z)main 함수에서 참조되는 확인할 수 없는 외부 기호
+RankingBoard.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl loadRanking(char const *)" (?loadRanking@@YAXPEBD@Z)
+4x4Main.obj : error LNK2019: "void __cdecl storeRanking(char const *)" (?storeRanking@@YAXPEBD@Z)main 함수에서 참조되는 확인할 수 없는 외부 기호
+RankingBoard.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl storeRanking(char const *)" (?storeRanking@@YAXPEBD@Z)
+4x4Main.obj : error LNK2019: "void __cdecl printRanking(void)" (?printRanking@@YAXXZ)main 함수에서 참조되는 확인할 수 없는 외부 기호
+FifteenPuzzle.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl printRanking(void)" (?printRanking@@YAXXZ)
+RankingBoard.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl printRanking(void)" (?printRanking@@YAXXZ)
+FifteenPuzzle.obj : error LNK2019: "int __cdecl addRanking(int,double)" (?addRanking@@YAHHN@Z)"int __cdecl playFifteenPuzzle(void)" (?playFifteenPuzzle@@YAHXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+RankingBoard.obj : error LNK2001: 확인할 수 없는 외부 기호 "int __cdecl addRanking(int,double)" (?addRanking@@YAHHN@Z)
+C:\Users\samsung\source\repos\Project1\x64\Debug\Project1.exe : fatal error LNK1120: 4개의 확인할 수 없는 외부 참조입니다.

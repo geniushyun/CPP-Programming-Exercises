@@ -1,0 +1,7 @@
+﻿  MonsterWorldGame.cpp
+C:\Users\samsung\source\repos\Week7_Homework1\Week7_Homework1\Monster.h(22,21): warning C4566: 유니버설 문자 이름 '\u00AB'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\samsung\source\repos\Week7_Homework1\Week7_Homework1\Monster.h(24,47): warning C4566: 유니버설 문자 이름 '\u00AF'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\samsung\source\repos\Week7_Homework1\Week7_Homework1\Monster.h(24,47): warning C4566: 유니버설 문자 이름 '\u00A9'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\samsung\source\repos\Week7_Homework1\Week7_Homework1\Monster.h(24,47): warning C4566: 유니버설 문자 이름 '\u00CF'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\samsung\source\repos\Week7_Homework1\Week7_Homework1\Monster.h(24,47): warning C4566: 유니버설 문자 이름 '\u00D9'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+  Week7_Homework1.vcxproj -> C:\Users\samsung\source\repos\Week7_Homework1\x64\Debug\Week7_Homework1.exe

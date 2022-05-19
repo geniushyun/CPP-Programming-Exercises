@@ -1,0 +1,51 @@
+﻿  MonsterWorldGame.cpp
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(22,21): warning C4566: 유니버설 문자 이름 '\u00AB'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(24,47): warning C4566: 유니버설 문자 이름 '\u00AF'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(24,47): warning C4566: 유니버설 문자 이름 '\u00A9'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(24,47): warning C4566: 유니버설 문자 이름 '\u00CF'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(24,47): warning C4566: 유니버설 문자 이름 '\u00D9'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\VariousMonsters.h(19,17): error C2248: 'Monster::x': private 멤버('Monster' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(7): message : 'Monster::x' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(5): message : 'Monster' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\VariousMonsters.h(20,22): error C2248: 'Monster::x': private 멤버('Monster' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(7): message : 'Monster::x' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(5): message : 'Monster' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\VariousMonsters.h(21,22): error C2248: 'Monster::y': private 멤버('Monster' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(7): message : 'Monster::y' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(5): message : 'Monster' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\VariousMonsters.h(22,8): error C2248: 'Monster::y': private 멤버('Monster' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(7): message : 'Monster::y' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(5): message : 'Monster' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\VariousMonsters.h(23,1): error C2248: 'Monster::clip': private 멤버('Monster' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(9): message : 'Monster::clip' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(5): message : 'Monster' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\VariousMonsters.h(24,1): error C2664: 'void Monster::eat(int [][40])': 인수 1을(를) 'int **'에서 'int [][40]'(으)로 변환할 수 없습니다.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\VariousMonsters.h(24,7): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(15,7): message : 'Monster::eat' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\VariousMonsters.h(35,3): error C2248: 'Monster::x': private 멤버('Monster' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(7): message : 'Monster::x' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(5): message : 'Monster' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\VariousMonsters.h(36,3): error C2248: 'Monster::y': private 멤버('Monster' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(7): message : 'Monster::y' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(5): message : 'Monster' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\VariousMonsters.h(37,1): error C2248: 'Monster::clip': private 멤버('Monster' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(9): message : 'Monster::clip' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(5): message : 'Monster' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\VariousMonsters.h(38,1): error C2664: 'void Monster::eat(int [][40])': 인수 1을(를) 'int **'에서 'int [][40]'(으)로 변환할 수 없습니다.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\VariousMonsters.h(38,7): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(15,7): message : 'Monster::eat' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\VariousMonsters.h(52,14): error C2248: 'Monster::x': private 멤버('Monster' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(7): message : 'Monster::x' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(5): message : 'Monster' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\VariousMonsters.h(53,8): error C2248: 'Monster::y': private 멤버('Monster' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(7): message : 'Monster::y' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(5): message : 'Monster' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\VariousMonsters.h(54,1): error C2248: 'Monster::clip': private 멤버('Monster' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(9): message : 'Monster::clip' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(5): message : 'Monster' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\VariousMonsters.h(55,1): error C2664: 'void Monster::eat(int [][40])': 인수 1을(를) 'int **'에서 'int [][40]'(으)로 변환할 수 없습니다.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\VariousMonsters.h(55,7): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(15,7): message : 'Monster::eat' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\MonsterWorld.h(59,1): error C2664: 'void Monster::move(int [][40],int,int)': 인수 1을(를) 'int **'에서 'int [][40]'(으)로 변환할 수 없습니다.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\MonsterWorld.h(59,39): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Users\samsung\source\repos\Week9_Homework1\Week9_Homework1\Monster.h(27,7): message : 'Monster::move' 선언을 참조하십시오.

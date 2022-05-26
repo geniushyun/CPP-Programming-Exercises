@@ -1,0 +1,4 @@
+﻿  MonsterWorldGame.cpp
+C:\Users\samsung\source\repos\Project10\Project10\Human.h(8,40): warning C4566: 유니버설 문자 이름 '\u00CF'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\samsung\source\repos\Project10\Project10\MonsterWorldGame.cpp(7,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Project10.vcxproj -> C:\Users\samsung\source\repos\Project10\x64\Debug\Project10.exe

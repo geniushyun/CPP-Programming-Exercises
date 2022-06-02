@@ -1,0 +1,31 @@
+﻿  MonsterWorldGame.cpp
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\Monster.h(45,10): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\Human.h(8,19): warning C4566: 유니버설 문자 이름 '\u00CC'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\Human.h(8,19): warning C4566: 유니버설 문자 이름 '\u00C0'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\Human.h(8,19): warning C4566: 유니버설 문자 이름 '\u00CE'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\Human.h(8,19): warning C4566: 유니버설 문자 이름 '\u00F9'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\Human.h(8,50): warning C4566: 유니버설 문자 이름 '\u00CF'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\Matrix.h(5,15): error C2011: 'Monster': 'class' 형식 재정의
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\Monster.h(5): message : 'Monster' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\MonsterWorld.h(10,9): error C3646: 'world': 알 수 없는 재정의 지정자입니다.
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\MonsterWorld.h(10,14): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\MonsterWorld.h(15,34): error C2065: 'world': 선언되지 않은 식별자입니다.
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\MonsterWorld.h(30,1): error C2027: 정의되지 않은 형식 'Monster'을(를) 사용했습니다.
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\Monster.h(5): message : 'Monster' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\MonsterWorld.h(36,1): error C2027: 정의되지 않은 형식 'Monster'을(를) 사용했습니다.
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\Monster.h(5): message : 'Monster' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\MonsterWorld.h(39,31): error C2614: 'MonsterWorld': 멤버 초기화가 잘못되었습니다. 'world'이(가) 기본 또는 멤버가 아닙니다.
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\MonsterWorld.h(47,1): warning C4150: 불완전한 형식 'Monster'에 대한 포인터를 삭제했습니다. 소멸자가 호출되지 않습니다.
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\Monster.h(5): message : 'Monster' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\MonsterWorld.h(59,1): error C2027: 정의되지 않은 형식 'Monster'을(를) 사용했습니다.
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\Monster.h(5): message : 'Monster' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\MonsterWorld.h(59,19): error C2065: 'world': 선언되지 않은 식별자입니다.
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\MonsterWorldGame.cpp(7,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\MonsterWorldGame.cpp(49,18): error C2039: 'nItem': 'Human'의 멤버가 아닙니다.
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\Human.h(6): message : 'Human' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\MonsterWorldGame.cpp(49,32): error C2039: 'nItem': 'Human'의 멤버가 아닙니다.
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\Human.h(6): message : 'Human' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\MonsterWorldGame.cpp(49,47): error C2039: 'total': 'Human'의 멤버가 아닙니다.
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\Human.h(6): message : 'Human' 선언을 참조하십시오.
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\MonsterWorldGame.cpp(49,52): error C2660: 'RankingBoard::add': 함수는 1개의 인수를 사용하지 않습니다.
+C:\Users\samsung\source\repos\Week11_homework3\Week11_homework3\RankingBoard.h(48,6): message : 'RankingBoard::add' 선언을 참조하십시오.
